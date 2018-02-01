@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebCamViewer">
+</Property><Property Name="Solution File" Value="D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\WebCamViewer.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\WebCamViewer.suo">
+</Property><Property Name="Date" Value="Friday, December 09, 2011">
+</Property><Property Name="Time" Value="12:38 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WebCamViewer.sln" Description="File successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\WebCamViewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WebCamViewer.suo" Description="File successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\WebCamViewer.suo">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="WebCamViewer.vbproj" Description="Project file successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\WebCamViewer.vbproj">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="WebCamViewer.vbproj.user" Description="Project user file successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\WebCamViewer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="frmMain.vb" Description="File successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="iCam.vb" Description="File successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\iCam.vb">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="frmMain.resx" Description="File successfully backed up as D:\Projects\All Six Sense\Laser Detection Finally Done Tested With Comments\Color Detection in VB.net With Comments\Backup1\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="WebCamViewer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebCamViewer" Source="WebCamViewer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WebCamViewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WebCamViewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebCamViewer" Source="WebCamViewer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
